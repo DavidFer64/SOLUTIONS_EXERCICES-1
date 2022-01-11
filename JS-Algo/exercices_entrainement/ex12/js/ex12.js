@@ -1,10 +1,10 @@
 //variables
-var tableau = [15, 3, 56, 1, 25];
+const tableau = [15, 3, 56, 1, 25];
 
-var somme = 0;
+let somme = 0;
 
-var valeurMax = tableau[0];
-var valeurMin = tableau[0];
+let valeurMax = tableau[0];
+let valeurMin = tableau[0];
 
 // somme
 for (let i = 0; i < tableau.length; i++) {
