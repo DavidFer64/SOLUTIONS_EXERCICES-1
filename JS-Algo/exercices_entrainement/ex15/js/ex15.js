@@ -1,6 +1,6 @@
 
-var htmlTables = "";
-var divTables = document.querySelector("#divTables");
+let htmlTables = "";
+const divTables = document.querySelector("#divTables");
 
 // for (let i = 1; i <= 10; i++) {
 //     document.writeln("<div>" + i + " x 2 = " + i * 2 + "</div>");
