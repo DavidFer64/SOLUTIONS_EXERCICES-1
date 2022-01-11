@@ -1,9 +1,9 @@
-var veteran = 40;
-var senior = 23;
-var espoir = 20;
-var junior = 18;
+const veteran = 40;
+const senior = 23;
+const espoir = 20;
+const junior = 18;
 
-var age = 60;
+const age = 60;
 
 if (age >= veteran) {
     alert("Veteran");
